@@ -7,6 +7,7 @@
 #include <string>
 #include <vector>
 #include <map>
+#include <cstdint>
 
 enum MODIFICATION_SPACING {
     EVEN_SPACING = 0,

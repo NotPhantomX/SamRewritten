@@ -27,6 +27,7 @@
 #include "../common/functions.h"
 #include "KeyValue.h"
 #include <strings.h>
+#include <cstdint>
 
 // https://stackoverflow.com/questions/8267847/why-should-i-initialize-static-class-variables-in-c
 KeyValue* KeyValue::Invalid = new KeyValue();

@@ -1,6 +1,7 @@
 #pragma once
 
 #include <string>
+#include <cstdint>
 
 // Mix them with bitwise operators
 // NEXT_MOST_ACHIEVED = The next locked achievement achieved by the global player achievement rate
